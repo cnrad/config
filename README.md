@@ -26,6 +26,7 @@
 - #### TypeScript (Full-stack Website)
     - Backend: `Postgres` + `Prisma` (for database management) + `node.js` (for the API, which is also written in TypeScript)
     - Frontend: `next.js` (React framework) + `TailwindCSS` or `styled-components` (styling libraries)
+    - Vercel (for hosting )
 
 ## Setup
 
