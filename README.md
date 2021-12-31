@@ -1,4 +1,6 @@
-# /cnrad/config
+![image](https://user-images.githubusercontent.com/83192247/147804924-50c5ef1a-9ca1-41f4-98fa-0cf69509ed96.png)
+
+
 ```js
 // For the rare individual that is curious about the tech/equipment I use
 ```
@@ -15,6 +17,15 @@
 - #### [PuTTY](https://www.putty.org/) (for SSH)
 - #### [Git](https://git-scm.com/) (of course)
 - #### [ngrok](https://ngrok.com/) (useful for showing others your site on localhost, or testing on other devices)
+- #### [spotify coding playlist](https://open.spotify.com/playlist/44FHvnM9DI4CPHp1scnhJI) (it's very deep house and generally chill, give it a try)
+
+## Technologies
+- #### Yarn (as a package manager for Node)
+- #### Python (for python projects)
+- #### Golang (for a fun side project)
+- #### TypeScript (Full-stack Website)
+    - Backend: `Postgres` + `Prisma` (for database management) + `node.js` (for the API, which is also written in TypeScript)
+    - Frontend: `next.js` (React framework) + `TailwindCSS` or `styled-components` (styling libraries)
 
 ## Setup
 
