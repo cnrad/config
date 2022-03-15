@@ -30,6 +30,7 @@
 
 ## Setup
 
+- 2021 MacBook M1 Pro (for on-the-go stuff)
 - #### PC Specs
   - [CORSAIR TX650M](https://www.amazon.com/dp/B01N18J52E?psc=1&ref=ppx_yo2_dt_b_product_details) (Power Supply)
   - [Intel Core i7-10700K](https://www.amazon.com/dp/B086ML4XSB?psc=1&ref=ppx_yo2_dt_b_product_details) (CPU)
