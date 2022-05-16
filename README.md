@@ -18,6 +18,7 @@
 - #### [Git](https://git-scm.com/) (of course)
 - #### [ngrok](https://ngrok.com/) (useful for showing others your site on localhost, or testing on other devices)
 - #### [spotify coding playlist](https://open.spotify.com/playlist/44FHvnM9DI4CPHp1scnhJI) (it's very deep house and generally chill, give it a try)
+- #### [iTerm2](https://iterm2.com/) (Mac only, clean terminal with lots of nifty features)
 
 ## Technologies
 - #### Yarn (as a package manager for Node)
