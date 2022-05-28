@@ -39,7 +39,7 @@
   - [Corsair Vengeance RGB PRO 16GB](https://www.amazon.com/dp/B07D1XCKWW?psc=1&ref=ppx_yo2_dt_b_product_details) (RAM)
   - [NZXT H510](https://www.amazon.com/dp/B07TC76671?psc=1&ref=ppx_yo2_dt_b_product_details) (Case)
   - [be Quiet! BK008 Pure Rock Slim](https://www.amazon.com/dp/B01KVNCEIG?psc=1&ref=ppx_yo2_dt_b_product_details) (CPU Cooler)
-  - [MSI GeForce RTX 3070 Ti 8GB](MSI Gaming GeForce RTX 3070 Ti 8GB GDRR6X 256-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3070 Ti Gaming X Trio 8G) https://www.amazon.com/dp/B096HJC18P) (GPU)
+  - [MSI GeForce RTX 3070 Ti 8GB](https://www.amazon.com/dp/B096HJC18P) (GPU)
 - #### [Blue Snowball](https://www.bluemic.com/en-us/products/snowball/) (Microphone)
 - #### [XPCAM 1080P Webcam](https://www.amazon.com/dp/B082X91MPP) (Webcam)
 - #### [Bose QC35 II](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) (Headphones)
