@@ -45,5 +45,5 @@
 - #### [Bose QC35 II](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) (Headphones)
 - #### [SteelSeries Apex 7 TKL](https://www.amazon.com/SteelSeries-Compact-Mechanical-Gaming-Keyboard/dp/B07TGQ7CNF/ref=sr_1_5_mod_primary_new) (Keyboard, Red Switches)
 - #### [Motospeed V30](https://www.amazon.com/Motospeed-3500DPI-Buttons-Breathing-Optical/dp/B086SV69TZ/ref=sr_1_1) (Mouse, I got it for 12 bucks back in 2016 and it has served me so well over the past 6 years)
-- #### [AOC C24G1A 24"](https://www.amazon.com/dp/B08D3Y5PFZ) (Monitor 1)
-- #### [AOC i2367F 23"](https://www.newegg.com/aoc-i2367f-23/p/N82E16824160204) (Monitor 2)
+- #### [NZXT 27Q](https://nzxt.com/product/canvas-27q) (Monitor 1)
+- #### [AOC C24G1A 24"](https://www.amazon.com/dp/B08D3Y5PFZ) (Monitor 2)
